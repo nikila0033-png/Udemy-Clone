@@ -1,10 +1,12 @@
 # Udemy Clone
 
-##📖Project Overview
+##📖Project Overview:
+
      This  is a responsive Udemy Clone Website built by using HTML5 and CSS3.The project recreates, the
 Layout and Design of the Udemy homepage, including the Navigation bar,Search bar,Course sections,Footer.
 
-##🚀Features
+##🚀Features:
+
     -Responsive Navigation Bar
     -Search Bar
     -Categories Menu
@@ -13,7 +15,8 @@ Layout and Design of the Udemy homepage, including the Navigation bar,Search bar
     -Footer
     -Responsive Design using CSS Flexbox
 
- ##🛠 Technologies Used
+ ##🛠 Technologies Used:
+ 
      -HTML5
      -CSS3
 
