@@ -1,6 +1,5 @@
 # Udemy Clone
-
-    This is my Udemy Clone project built using HTML and CSS as part of my Full Stack Web Development learning journey., The project focuses on creating a responsive and user-friendly web interface inspired by the Udemy Website. 
+ This is my Udemy Clone project built using HTML and CSS as part of my Full Stack Web Development learning journey., The project focuses on creating a responsive and user-friendly web interface inspired by the Udemy Website. 
     
 ## Features
 
