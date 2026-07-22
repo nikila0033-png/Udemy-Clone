@@ -27,18 +27,4 @@
 
      **Nikila**
   FULL STACK WEB DEVELOPMENT STUDENT
-   
-   
-
-
-
-
-
-
-   
-   -
-   -
-   -
-   -
-   -
     
