@@ -24,7 +24,6 @@
    - Practiced  Git and Github for version control.
 
 ## Author
-
-     **Nikila**
+   **Nikila**
   FULL  STACK  WEB  DEVELOPMENT  STUDENT
     
